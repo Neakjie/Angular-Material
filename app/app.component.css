@@ -1,0 +1,65 @@
+button {
+    left: 20px;
+    margin-right: 2rem;
+    width: 20%;
+    overflow: hidden;
+}
+
+mat-grid-tile {
+    background-color: blue;
+}
+
+.menuBtn {
+    width: 100%;
+    left: 0;
+}
+
+.divBt1 {
+    margin-top: 3em;
+    margin-left: 1rem;
+}
+
+.divBt2 {
+    margin-top: 3em;
+}
+
+.badge>div {
+    margin-top: 40px;
+}
+
+.navBar {
+    justify-content: space-between;
+}
+
+span {
+    padding-right: 1rem;
+}
+
+.mat-sidenav-container {
+    height: 26.5%;
+    width: 35%;
+}
+
+.mat-sidenav,
+.mat-sidenav-content {
+    padding: 16px;
+}
+
+.mat-sidenav {
+    background-color: lightcoral;
+    width: 50%;
+}
+
+table {
+    width: 100%;
+}
+
+.mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+td,
+th {
+    width: 25%;
+}
